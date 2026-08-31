@@ -2,10 +2,6 @@
   <h1>Tudustech</h1>
   <p><strong>Programmer</strong></p>
 
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=560&lines=Polyglot+Developer+%E2%80%A2+Code+in+Everything;ESP32%2C+ESP8266+%26+Microcontroller+Firmware;Embedded+C%2FC%2B%2B+%E2%80%A2+Sensors+%26+Hardware+Hacking;Custom+Circuits%2C+Soldering+%26+IoT+Protocols;Building+Fast%2C+Reliable+Digital+Systems">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=560&lines=Polyglot+Developer+%E2%80%A2+Code+in+Everything;ESP32%2C+ESP8266+%26+Microcontroller+Firmware;Embedded+C%2FC%2B%2B+%E2%80%A2+Sensors+%26+Hardware+Hacking;Custom+Circuits%2C+Soldering+%26+IoT+Protocols;Building+Fast%2C+Reliable+Digital+Systems" alt="Typing SVG" />
-  </a>
-
   <p style="margin-top: 14px;">
     <a href="https://github.com/Tudustech-hub">
       <img src="https://komarev.com/ghpvc/?username=Tudustech-hub&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
