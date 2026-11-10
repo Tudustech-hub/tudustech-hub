@@ -10,10 +10,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/Tudustech-hub/TuBo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tubo-dark.svg"><img src="assets/project-tubo-light.svg" width="49%" alt="TuBo"></picture></a>&nbsp;<a href="https://github.com/Tudustech-hub/Keyo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-keyo-dark.svg"><img src="assets/project-keyo-light.svg" width="49%" alt="Keyo"></picture></a>
-
-<a href="https://github.com/Tudustech-hub/PiVot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pivot-dark.svg"><img src="assets/project-pivot-light.svg" width="49%" alt="PiVot"></picture></a>&nbsp;<a href="https://github.com/Tudustech-hub/TuOS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tuos-dark.svg"><img src="assets/project-tuos-light.svg" width="49%" alt="TuOS"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
