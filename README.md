@@ -1,79 +1,23 @@
 <div align="center">
-  <h1>Tudustech</h1>
-  <p><strong>Programmer</strong></p>
 
-  <p style="margin-top: 14px;">
-    <a href="https://github.com/Tudustech-hub">
-      <img src="https://komarev.com/ghpvc/?username=Tudustech-hub&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    </a>
-  </p>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Tudustech"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="34.248%" alt=""></picture><a href="https://www.tiktok.com/@tudustech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="15.488%" alt="tiktok"></picture></a><a href="Tudustech-Hub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.014%" alt="github"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="34.248%" alt=""></picture>
 
-### 🔬 What I Do & Build
-* ⚡ **Code in Everything**: Fluent across low-level and high-level stacks — whether writing bare-metal register operations in **C/C++**, data tools and automation in **Python**, fast utilities in **Rust** / **Go**, or real-time web applications in **TypeScript** / **JavaScript**.
-* 🔌 **Hardware & Microcontrollers**: Custom firmware, IoT nodes, and embedded devices on **ESP32 (Wi-Fi / BLE / ESP-NOW)**, **ESP8266**, **STM32**, **RP2040**, and **Arduino**.
-* 🌐 **Systems & Bot Architecture**: Creator of production Discord bots, WebSocket event daemons, REST backends, and Linux server deployments.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Activity"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-### 🧰 Tech Stack & Tools
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<div align="center">
+<a href="https://github.com/Tudustech-hub/TuBo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tubo-dark.svg"><img src="assets/project-tubo-light.svg" width="49%" alt="TuBo"></picture></a>&nbsp;<a href="https://github.com/Tudustech-hub/Keyo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-keyo-dark.svg"><img src="assets/project-keyo-light.svg" width="49%" alt="Keyo"></picture></a>
 
-#### 🔌 Hardware & Embedded
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP8266" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino2.svg" alt="Arduino" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPi/raspberrypi2.svg" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/MicroPython-2B5581?style=flat-square&logo=python&logoColor=white" alt="MicroPython" />
-  <img src="https://img.shields.io/badge/FreeRTOS-000000?style=flat-square&logo=c&logoColor=white" alt="FreeRTOS" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/I2C%20%7C%20SPI%20%7C%20UART-1E293B?style=flat-square" alt="Protocols" />
-</p>
+<a href="https://github.com/Tudustech-hub/PiVot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pivot-dark.svg"><img src="assets/project-pivot-light.svg" width="49%" alt="PiVot"></picture></a>&nbsp;<a href="https://github.com/Tudustech-hub/TuOS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tuos-dark.svg"><img src="assets/project-tuos-light.svg" width="49%" alt="TuOS"></picture></a>
 
-#### 💻 Programming Languages
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="C" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CPlusPlus/cplusplus2.svg" alt="C++" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg" alt="Rust" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="TypeScript" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg" alt="Go" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bash/bash2.svg" alt="Bash" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-#### ⚙️ Frameworks & DevOps
-<p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="Node.js" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" alt="Discord.js" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ExpressJS/expressjs2.svg" alt="Express.js" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VSCode/vscode2.svg" alt="VS Code" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-</div>
+<a href="https://metawka.github.io/expressive-profile/?from=Tudustech-hub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
----
-
-### 🌟 Featured Project
-
-<div align="center">
-
-#### [⚡ System Bot — Production Discord Infrastructure & Management Platform](https://github.com/Tudustech-hub/systembot)
-*Dynamic Join-to-Create Voice • Support Tickets • Anti-Raid Honeypot • Live Web Dashboard • Gemini AI • Activity XP & Leaderboards*
-
-</div>
-
----
-
-<div align="center">
-  <sub>Made By<strong>Tudustech</strong></sub>
 </div>
